@@ -1,3 +1,3 @@
 # Blockchain intro
 
-Initial prelim blockchain code implemented on node.js
+Initial prelim blockchain development
